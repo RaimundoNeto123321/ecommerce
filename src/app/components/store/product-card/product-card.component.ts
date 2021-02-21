@@ -28,4 +28,5 @@ export class ProductCardComponent implements OnInit {
     this.toastr.success(`${this.product.title} adicionado ao carrinho`, 'Produto Adicionado');
   }
 
-}
+
+} 
